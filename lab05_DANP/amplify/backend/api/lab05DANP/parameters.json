@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "lab05DANP",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

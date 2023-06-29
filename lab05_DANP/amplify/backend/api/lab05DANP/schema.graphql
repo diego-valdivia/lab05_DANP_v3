@@ -1,0 +1,6 @@
+type LectorFoco @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  intensidad: Int!
+  hora: AWSTime!
+  fecha: AWSDate!
+}
